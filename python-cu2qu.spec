@@ -8,7 +8,7 @@ Summary:	Cubic-to-quadratic Bezier curve conversion
 Summary(pl.UTF-8):	Konwersja krzywych Beziera stopnia trzeciego do drugiego
 Name:		python-cu2qu
 Version:	1.6.7.post1
-Release:	4
+Release:	5
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/cu2qu/
